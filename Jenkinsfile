@@ -30,7 +30,7 @@ pipeline {
                 script {
                     echo "Deploying the application..."
                 }
-            }
-        }
+            }
+        }
     }
 }
